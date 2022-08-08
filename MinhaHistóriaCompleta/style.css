@@ -1,0 +1,11 @@
+.Base{
+    text-align:  center;
+    max-width: 1000px;
+    margin: 0 auto 0 auto;
+}k
+.Base h1{
+    color: white;
+}
+.Base h3{
+    color: white;
+}
